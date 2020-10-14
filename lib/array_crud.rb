@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   animals_at_zoo = ["lions", "tigers", "bears", "arrays!"]
-  arrays!_animal = animals_at_zoo.pop
+  array_animal = animals_at_zoo.pop
 
 end
 
