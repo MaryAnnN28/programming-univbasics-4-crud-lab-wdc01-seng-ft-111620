@@ -29,10 +29,10 @@ end
 def retrieve_element_from_index(array, index_number)
   array = ["pm", "am", "est", "pst"]
   array[1]
-
 end
 
 def retrieve_first_element_from_array(array)
+  array = ["wow", "hey", "why", "lol"]
 
 end
 
