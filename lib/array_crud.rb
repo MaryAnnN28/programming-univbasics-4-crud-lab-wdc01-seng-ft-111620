@@ -19,11 +19,11 @@ end
 def remove_element_from_end_of_array(array)
   animals_at_zoo = ["lions", "tigers", "bears", "arrays!"]
   array_animal = animals_at_zoo.pop
-
 end
 
 def remove_element_from_start_of_array(array)
-
+  phrase = ["wow", "hello", "array", "seeya"]
+  wow = remove_element_from_start_of_array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
