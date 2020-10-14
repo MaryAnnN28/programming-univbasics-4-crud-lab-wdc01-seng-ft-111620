@@ -28,7 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   array = ["pm", "am", "est", "pst"]
-  array[1] = nil
+  array[1]
 
 end
 
